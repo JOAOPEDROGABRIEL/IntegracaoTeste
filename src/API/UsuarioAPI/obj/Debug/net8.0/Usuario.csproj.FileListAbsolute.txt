@@ -1,0 +1,7 @@
+C:\Users\Ultra\Desktop\Projetos Fechados\IntegracaoTesteNovo\src\API\Usuario\obj\Debug\net8.0\Usuario.csproj.AssemblyReference.cache
+C:\Users\Ultra\Desktop\Projetos Fechados\IntegracaoTesteNovo\src\API\Usuario\obj\Debug\net8.0\Usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ultra\Desktop\Projetos Fechados\IntegracaoTesteNovo\src\API\Usuario\obj\Debug\net8.0\Usuario.AssemblyInfoInputs.cache
+C:\Users\Ultra\Desktop\Projetos Fechados\IntegracaoTesteNovo\src\API\Usuario\obj\Debug\net8.0\Usuario.AssemblyInfo.cs
+C:\Users\Ultra\Desktop\Projetos Fechados\IntegracaoTesteNovo\src\API\Usuario\obj\Debug\net8.0\Usuario.csproj.CoreCompileInputs.cache
+C:\Users\Ultra\Desktop\Projetos Fechados\IntegracaoTesteNovo\src\API\Usuario\obj\Debug\net8.0\Usuario.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ultra\Desktop\Projetos Fechados\IntegracaoTesteNovo\src\API\Usuario\obj\Debug\net8.0\Usuario.MvcApplicationPartsAssemblyInfo.cache
